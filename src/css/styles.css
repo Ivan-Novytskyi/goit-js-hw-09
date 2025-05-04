@@ -13,3 +13,9 @@
 @import url('./header.css');
 @import url('./badges.css');
 @import url('./back-link.css');
+
+/* Gallery */
+@import url('./gallery.css');
+
+/* Form */
+@import url('./form.css');
